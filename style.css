@@ -1,0 +1,13 @@
+canvas{
+	background-color: #c1e1ec;
+}
+button {
+  background-color: #72bcd4; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 8px;
+}
